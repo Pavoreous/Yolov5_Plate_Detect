@@ -1,0 +1,5 @@
+train: C:/Users/PC/Desktop/dataset_pts/images/train
+val: C:/Users/PC/Desktop/dataset_pts/images/val
+
+nc: 1
+names: ['plate']
